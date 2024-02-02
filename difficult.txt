@@ -1,0 +1,10 @@
+Concept of repeating code? 
+Time complexity of merge sort? 
+Connects devices in a building? 
+Combining data and methods? 
+Top layer of network model? 
+Common email attack?
+Reducing data redundancy?
+Treats code as expressions? 
+AI concern with fairness?
+Finding software defects?

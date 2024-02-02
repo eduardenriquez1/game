@@ -1,0 +1,10 @@
+HTML stands for? 
+Primary web development language? 
+Translates code before execution? 
+Stores data in programming? 
+Organizes large data efficiently? 
+Volatile memory? 
+Efficient search algorithm? 
+Protects from unauthorized access? 
+Requests services in a network? 
+Tracks changes in code? 
